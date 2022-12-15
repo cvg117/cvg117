@@ -1,10 +1,10 @@
 I am a student in the University of Chicago's Masters of Science in Computational Analysis and Public Policy, developing skills in data analytics, databasing, and machine learning.
 
-Learning: Python, R, SQL
+Using: Python, R, SQL, D3.js
 
-Exploring: The intersection of data ethics and machine learning to help communities control their stories.
+Exploring: Data ethics and digital human rights. Applying that knowledge to improve public systems and protect human liberty in the digital space.
 
-Working on: System Mapping of Japan's Fertility Rates, Engineering and Producing The Forum at UofC's Public Policy Podcasts.
+Working on: Data, AI, and The Ethical Imperative conference. Chicago Bike Safety Report. Engineering and Producing The Forum at UofC's Public Policy Podcasts.
 
 Excited to: Find new collaborators engaged in the tech for social good space.
 
