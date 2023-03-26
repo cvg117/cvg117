@@ -1,10 +1,9 @@
-I am a student in the University of Chicago's Masters of Science in Computational Analysis and Public Policy, developing skills in data analytics, databasing, and machine learning.
+I am an impending graduate of the University of Chicago's Masters of Science in Computational Analysis and Public Policy focused on the intersection of civic tech and data ethics. I am seeking roles that combine my skills in data engineering, project management, and policy analysis to create tools that improve public services and center digital human rights.
 
-Using: Python, R, SQL, D3.js
+Current Languages: Python, SQL, R, D3.js
 
-Exploring: Data ethics and digital human rights. Applying that knowledge to improve public systems and protect human liberty in the digital space.
+Beloved Tools: Docker, AWS Suite, MongoDB
 
-Working on: Data, AI, and The Ethical Imperative conference. Chicago Bike Safety Report. Engineering and Producing The Forum at UofC's Public Policy Podcasts.
+Current Projects: A Citizens' Guide to Digital Human Rights. The Daily Black Diamond: Chicago Bike Safety Analysis. Shedding light on Dark Patterns.
 
-Excited to: Find new collaborators engaged in the tech for social good space.
-
+Away from the Keyboard: Theater-maker, Cook, Climber, Tabletop RPG nerd.
