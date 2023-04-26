@@ -6,4 +6,4 @@ Beloved Tools: Docker, AWS Suite, MongoDB
 
 Current Projects: A Citizens' Guide to Digital Human Rights. The Daily Black Diamond: Chicago Bike Safety Analysis. Shedding light on Dark Patterns.
 
-Away from the Keyboard: Theater-maker, Cook, Climber, Tabletop RPG nerd.
+Away from the Keyboard: Storyteller, Cook, Creaky Volleyball Player, Tabletop RPG nerd.
