@@ -1,4 +1,4 @@
-I am an impending graduate of the University of Chicago's Masters of Science in Computational Analysis and Public Policy focused on the intersection of civic tech and data ethics. I am seeking roles that combine my skills in data engineering, project management, and policy analysis to create tools that improve public services and center digital human rights.
+I am a recent graduate of the University of Chicago's Masters of Science in Computational Analysis and Public Policy focused on the intersection of civic tech and data ethics. I am seeking roles that combine my skills in data engineering, project management, and policy analysis to create tools that improve public services and center digital human rights.
 
 Current Languages: Python, SQL, R, D3.js
 
