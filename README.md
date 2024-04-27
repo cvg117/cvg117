@@ -1,9 +1,5 @@
-I am a recent graduate of the University of Chicago's Masters of Science in Computational Analysis and Public Policy focused on the intersection of civic tech and data ethics. I am seeking roles that combine my skills in data engineering, project management, and policy analysis to create tools that improve public services and center digital human rights.
+Tech ethicist, policy analyst, and creative strategist engaging stakeholders and communities to guide the human centered development of the digital ecosystem. Technical skills supplement years of career experience leading cross-functional teams who empower communities to make progress on civic issues. My mission is to distribute technology's benefits and curb its harms by delivering clear, narratively engaging analysis that promotes public accountability.
 
-Current Languages: Python, SQL, R, D3.js
-
-Beloved Tools: Docker, AWS Suite, MongoDB
-
-Current Projects: A Citizens' Guide to Digital Human Rights. The Daily Black Diamond: Chicago Bike Safety Analysis. Shedding light on Dark Patterns.
+My working ethos was developed throughout an artistic producing career in Chicago’s storefront theater scene. Combining technical, interpersonal, and creative skills, I brought production teams and institutional staffs together to elevate mission-driven organizations. Through the MS in Computational Analysis and Public Policy at the University of Chicago, I converted the strategies and skills that made me a successful theatrical production manager for nearly a decade, into a people-first analyst, technologist, and manager for civic tech.
 
 Away from the Keyboard: Storyteller, Cook, Creaky Volleyball Player, Tabletop RPG nerd.
